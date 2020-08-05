@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 
 <p>Sou apaixonado por resolver problemas utilizando a programação.</p>
-Programador em desenvolvimento :computer:
+<p>Programador em desenvolvimento :computer:</p>
 
  :rocket:  &nbsp; Projeto da Next Level Week, apresentado pela **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando desenvolvolver minhas habilidades com projetos em Front-end usando React
