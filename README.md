@@ -12,4 +12,5 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasarinisio@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucasarinisio@hotmail.com)](mailto:lucasarinisio@hotmail.com)
 
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
