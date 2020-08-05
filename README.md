@@ -10,4 +10,6 @@
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasEduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lucas-eduardo-9435881b4/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-lucasarinisio@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:lucasarinisio@hotmail.com)](mailto:lucasarinisio@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucasarinisio@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lucasarinisio@hotmail.com)](mailto:lucasarinisio@hotmail.com)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
